@@ -10,7 +10,8 @@
   },
   "keywords": [
     "node",
-    "mongodb"
+    "mongodb",
+    "typeScript"
   ],
   "author": "Vijay Palaskar",
   "license": "ISC",
